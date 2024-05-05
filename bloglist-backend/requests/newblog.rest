@@ -1,0 +1,11 @@
+Post http://localhost:3003/api/blogs
+Content-Type : application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3Q_IiwiaWQiOiI2NjA1YzM2ZDhlOGMxN2M3OGIyNjQ4OTUiLCJpYXQiOjE3MTQ1NjU1OTEsImV4cCI6MTcxNDU2OTE5MX0.0ZNmLgFIJ-OdeWyTA7tmcciuqBPvACBPxyJxHhar3jM
+
+{
+    "title":"Test 311",
+    "author":"Test Author",
+    "url":"http://testurl.com",
+    "likes":10,
+    "userId":"660329a0ef257a93267c4903"
+}

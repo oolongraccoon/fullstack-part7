@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/blogs/6632369bf2d8f17859df17fd/comments
+Content-Type : application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3Q_IiwiaWQiOiI2NjA1YzM2ZDhlOGMxN2M3OGIyNjQ4OTUiLCJpYXQiOjE3MTQ1NjU1OTEsImV4cCI6MTcxNDU2OTE5MX0.0ZNmLgFIJ-OdeWyTA7tmcciuqBPvACBPxyJxHhar3jM
+
+{
+  "content": "这是一条新评论"
+}
